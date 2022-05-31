@@ -1,0 +1,2 @@
+## PetTinder
+<p>Aplikasi berbasis web petTinder ini merupakan sebuah aplikasi berbasis web yang menyediakan fitur adopsi hewan. Pada aplikasi ini terdapat beberapa fitur yang memungkinkan user untuk melakukan adopsi hewan, ataupun menambahkan hewan baru agar dapat di adopsi.</p>
